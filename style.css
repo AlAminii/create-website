@@ -86,3 +86,34 @@
     padding: 60px;
     
 }
+.box{
+    width: 250px;
+    height: 315px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 12px;
+    margin: 15px;
+   
+}
+.icon{
+    width: 70px;
+}
+.btn-box{
+    background-color: gray;
+    margin-top: 15px;
+}
+.hl{
+    padding: 15px;
+}
+.pl{
+    padding: 15px;
+}
+.services-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #070606;
+    
+}
