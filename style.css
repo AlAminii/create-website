@@ -35,14 +35,14 @@
     justify-content: space-around;
     align-items: center;
     height:100vh;
-   
     background-image: url("./imag/images/background\ \(1\).png"), linear-gradient(45deg,#040101,#100202);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     color: white;
-    
-    
+}
+.bener-text{
+    margin: 60px;
 }
 .tittle{
     font-size: 55px;
@@ -64,4 +64,25 @@
 .btn:hover{
     cursor: pointer;
     color: blue;
+}
+.abtimg{
+    width: 300px;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 15px;
+    font-size:55px;
+    font-weight: bold;
+}
+.about-text{
+    margin: 30px;
+    padding: 60px;
+    
 }
